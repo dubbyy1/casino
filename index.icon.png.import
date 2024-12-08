@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bv37p1khwioa"
-path="res://.godot/imported/index.icon.png-500a95923769bdf03320ea11a707ba58.ctex"
+path="res://.godot/imported/index.icon.png-25586497bafacd31b71e318b65264a66.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://file/roulette_html/index.icon.png"
-dest_files=["res://.godot/imported/index.icon.png-500a95923769bdf03320ea11a707ba58.ctex"]
+source_file="res://file/roulette_html/casino/index.icon.png"
+dest_files=["res://.godot/imported/index.icon.png-25586497bafacd31b71e318b65264a66.ctex"]
 
 [params]
 

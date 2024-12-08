@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://jn7ay5aop30r"
-path="res://.godot/imported/index.apple-touch-icon.png-1f928e38145f278124bedd2c3e7701ab.ctex"
+path="res://.godot/imported/index.apple-touch-icon.png-07994f472791e24155afb26288bc43af.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://file/roulette_html/index.apple-touch-icon.png"
-dest_files=["res://.godot/imported/index.apple-touch-icon.png-1f928e38145f278124bedd2c3e7701ab.ctex"]
+source_file="res://file/roulette_html/casino/index.apple-touch-icon.png"
+dest_files=["res://.godot/imported/index.apple-touch-icon.png-07994f472791e24155afb26288bc43af.ctex"]
 
 [params]
 
